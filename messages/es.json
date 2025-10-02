@@ -1,0 +1,91 @@
+{
+  "locale": {
+    "fr": "Francés",
+    "en": "Inglés",
+    "es": "Español"
+  },
+  "buttons": {
+    "copy": "Copiar",
+    "copied": "¡Copiado!",
+    "howItWorks": "¿Cómo funciona?",
+    "openLegal": "Abrir aviso legal",
+    "close": "Cerrar",
+    "theme": "Tema",
+    "language": "Idioma",
+    "legal": "Legal",
+    "themeAuto": "Auto",
+    "themeLight": "Claro",
+    "themeDark": "Oscuro"
+  },
+  "hero": {
+    "title": "Haz streaming en cualquier lugar y sobre cualquier cosa",
+    "subtitle": "Un manifiesto experimental: una clave pública para emitir en todas partes, sin capturar datos ni artificios.",
+    "notice": "Esta clave puede cambiar en cualquier momento.",
+    "lastUpdated": "Última actualización"
+  },
+  "keyCard": {
+    "label": "Clave de streaming",
+    "contextMenu": "El clic derecho está desactivado en esta clave para evitar copias accidentales."
+  },
+  "how": {
+    "title": "¿Cómo funciona?",
+    "steps": {
+      "one": {
+        "title": "Copia la clave",
+        "description": "Utiliza el botón seguro para copiar al instante la clave pública y permanece atento a las actualizaciones."
+      },
+      "two": {
+        "title": "Conecta tu herramienta",
+        "description": "Pega la clave en tu configuración de emisión: software, tarjeta, servidor o experimento físico."
+      },
+      "three": {
+        "title": "Emite con responsabilidad",
+        "description": "Respeta las normas de las plataformas, de las audiencias y de las leyes. Aquí no se almacena nada: todo depende de ti."
+      }
+    }
+  },
+  "legal": {
+    "title": "Aviso legal",
+    "intro": "Lee con atención esta información antes de experimentar.",
+    "sections": {
+      "disclaimer": {
+        "title": "Aviso",
+        "body": "Proyecto artístico/experimental vinculado a un vídeo de YouTube. Este sitio no ofrece ningún servicio de difusión, no almacena datos, no registra nada, no retransmite ni procesa información de usuarios. No se proporciona ninguna garantía."
+      },
+      "responsibility": {
+        "title": "Responsabilidad",
+        "body": "Tú eres el único responsable de cualquier contenido que transmitas o pretendas transmitir en otro lugar. Los autores/editors de este sitio declinan toda responsabilidad por usos indebidos, daños, pérdidas o incumplimientos de las condiciones de plataformas de terceros (p. ej., Twitch/YouTube/Kick) o de derechos de terceros (p. ej., derechos de autor)."
+      },
+      "key": {
+        "title": "Clave de streaming",
+        "body": "La clave mostrada puede cambiar en cualquier momento y sin previo aviso. El acceso puede revocarse de inmediato."
+      },
+      "compliance": {
+        "title": "Cumplimiento",
+        "body": "El uso del concepto debe respetar las leyes aplicables y las normas de las plataformas correspondientes. Este sitio no fomenta ni autoriza contenido ilegal, dañino, de odio o sin consentimiento."
+      },
+      "privacy": {
+        "title": "Privacidad",
+        "body": "Este sitio no recopila datos personales, no utiliza rastreadores y no instala cookies. Las preferencias de tema/idioma se guardan localmente en tu navegador."
+      },
+      "legal": {
+        "title": "Legal",
+        "body": "Este sitio se proporciona “tal cual”, sin ninguna garantía. Nada aquí constituye asesoramiento jurídico."
+      }
+    }
+  },
+  "modal": {
+    "title": "Aviso legal"
+  },
+  "aria": {
+    "radialMenu": "Menú flotante de acciones",
+    "themeToggle": "Cambiar tema",
+    "localeToggle": "Cambiar idioma",
+    "legalOpen": "Abrir aviso legal"
+  },
+  "notFound": {
+    "title": "Perdido en órbita",
+    "description": "Esta página ya no existe. Vuelve a la base para continuar con el experimento.",
+    "cta": "Volver al inicio"
+  }
+}

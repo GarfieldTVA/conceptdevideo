@@ -1,0 +1,2 @@
+export const STREAM_KEY = 'live_1374121922_krXLC5L0s0Js6oW4En9u4KljoIUgHA';
+export const STREAM_KEY_LAST_UPDATED = '2024-05-12';

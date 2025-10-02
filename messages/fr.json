@@ -1,0 +1,91 @@
+{
+  "locale": {
+    "fr": "Français",
+    "en": "Anglais",
+    "es": "Espagnol"
+  },
+  "buttons": {
+    "copy": "Copier",
+    "copied": "Copié !",
+    "howItWorks": "Comment ça marche ?",
+    "openLegal": "Ouvrir les mentions légales",
+    "close": "Fermer",
+    "theme": "Thème",
+    "language": "Langue",
+    "legal": "Mentions légales",
+    "themeAuto": "Auto",
+    "themeLight": "Clair",
+    "themeDark": "Sombre"
+  },
+  "hero": {
+    "title": "Stream partout, sur tout, sans friction",
+    "subtitle": "Un manifeste expérimental : une clé publique pour diffuser n'importe où, sans captation de données ni artifice.",
+    "notice": "Cette clé peut changer à tout moment.",
+    "lastUpdated": "Dernière mise à jour"
+  },
+  "keyCard": {
+    "label": "Clé de stream",
+    "contextMenu": "Le clic droit est désactivé sur cette clé pour limiter les copies accidentelles."
+  },
+  "how": {
+    "title": "Comment ça marche ?",
+    "steps": {
+      "one": {
+        "title": "Copiez la clé",
+        "description": "Utilisez le bouton sécurisé pour copier instantanément la clé publique et restez attentif aux mises à jour."
+      },
+      "two": {
+        "title": "Reliez votre outil",
+        "description": "Collez la clé dans l'outil de diffusion de votre choix : logiciel, carte, serveur ou expérience physique."
+      },
+      "three": {
+        "title": "Diffusez en conscience",
+        "description": "Respectez les règles des plateformes, des publics et des lois. Rien n'est stocké ici : tout dépend de vous."
+      }
+    }
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "intro": "Lisez attentivement ces informations avant toute expérimentation.",
+    "sections": {
+      "disclaimer": {
+        "title": "Avertissement",
+        "body": "Projet artistique/expérimental lié à une vidéo YouTube. Ce site n’offre aucun service de diffusion, ne stocke, n’enregistre, ne relaie et ne traite aucune donnée utilisateur. Aucune garantie n’est fournie."
+      },
+      "responsibility": {
+        "title": "Responsabilité",
+        "body": "Vous êtes seul responsable de tout contenu que vous diffusez ou proposez de diffuser ailleurs. Les auteurs/éditeurs de ce site déclinent toute responsabilité pour tout usage abusif, dommage, perte ou violation de conditions d’utilisation de plateformes tierces (ex. Twitch/YouTube/Kick) ou de droits de tiers (ex. droit d’auteur)."
+      },
+      "key": {
+        "title": "Clé de stream",
+        "body": "La clé affichée est susceptible de changer à tout moment, sans préavis. L’accès peut être révoqué immédiatement."
+      },
+      "compliance": {
+        "title": "Conformité",
+        "body": "L’utilisation du concept doit respecter les lois applicables et les règles des plateformes concernées. Ce site n’encourage ni n’autorise aucun contenu illégal, nuisible, haineux ou non consensuel."
+      },
+      "privacy": {
+        "title": "Vie privée",
+        "body": "Ce site ne collecte aucune donnée personnelle, n’emploie aucun traceur et ne dépose aucun cookie. Les préférences de thème/langue sont stockées localement dans votre navigateur."
+      },
+      "legal": {
+        "title": "Juridique",
+        "body": "Ce site est fourni “en l’état”, sans garantie d’aucune sorte. Rien ici ne constitue un conseil juridique."
+      }
+    }
+  },
+  "modal": {
+    "title": "Mentions légales"
+  },
+  "aria": {
+    "radialMenu": "Menu d’actions flottant",
+    "themeToggle": "Basculer le thème",
+    "localeToggle": "Changer de langue",
+    "legalOpen": "Ouvrir les mentions légales"
+  },
+  "notFound": {
+    "title": "Perdu dans l'espace",
+    "description": "Cette page n'existe pas ou n'existe plus. Revenez à la base pour continuer l'expérience.",
+    "cta": "Retour à l’accueil"
+  }
+}

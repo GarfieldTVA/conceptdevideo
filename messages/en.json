@@ -1,0 +1,91 @@
+{
+  "locale": {
+    "fr": "French",
+    "en": "English",
+    "es": "Spanish"
+  },
+  "buttons": {
+    "copy": "Copy",
+    "copied": "Copied!",
+    "howItWorks": "How does it work?",
+    "openLegal": "Open legal notice",
+    "close": "Close",
+    "theme": "Theme",
+    "language": "Language",
+    "legal": "Legal",
+    "themeAuto": "Auto",
+    "themeLight": "Light",
+    "themeDark": "Dark"
+  },
+  "hero": {
+    "title": "Stream anywhere, on anything, without friction",
+    "subtitle": "An experimental manifesto: a public key to broadcast everywhere, without data capture or gimmicks.",
+    "notice": "This key can change at any moment.",
+    "lastUpdated": "Last updated"
+  },
+  "keyCard": {
+    "label": "Stream key",
+    "contextMenu": "Right click is disabled on this key to avoid accidental copies."
+  },
+  "how": {
+    "title": "How does it work?",
+    "steps": {
+      "one": {
+        "title": "Copy the key",
+        "description": "Use the secure button to instantly copy the public key and stay alert for refreshes."
+      },
+      "two": {
+        "title": "Link your tool",
+        "description": "Paste the key inside your broadcasting setup: software, card, server or physical experiment."
+      },
+      "three": {
+        "title": "Stream responsibly",
+        "description": "Follow platform rules, audiences and laws. Nothing is stored here: the intent is fully yours."
+      }
+    }
+  },
+  "legal": {
+    "title": "Legal notice",
+    "intro": "Read these details carefully before experimenting.",
+    "sections": {
+      "disclaimer": {
+        "title": "Disclaimer",
+        "body": "Artistic/experimental project linked to a YouTube video. This site offers no broadcasting service, stores no data, records nothing, relays nothing and processes no user information. No warranty is provided."
+      },
+      "responsibility": {
+        "title": "Responsibility",
+        "body": "You are solely responsible for any content you stream or intend to stream elsewhere. The authors/publishers of this site disclaim any liability for misuse, damage, loss or breach of terms of third-party platforms (e.g. Twitch/YouTube/Kick) or third-party rights (e.g. copyright)."
+      },
+      "key": {
+        "title": "Stream key",
+        "body": "The displayed key may change at any time without notice. Access can be revoked immediately."
+      },
+      "compliance": {
+        "title": "Compliance",
+        "body": "Use of the concept must respect applicable laws and the rules of relevant platforms. This site neither encourages nor authorises illegal, harmful, hateful or non-consensual content."
+      },
+      "privacy": {
+        "title": "Privacy",
+        "body": "This site collects no personal data, uses no trackers and sets no cookies. Theme/language preferences are stored locally in your browser."
+      },
+      "legal": {
+        "title": "Legal",
+        "body": "This site is provided “as is”, without any warranty. Nothing here constitutes legal advice."
+      }
+    }
+  },
+  "modal": {
+    "title": "Legal notice"
+  },
+  "aria": {
+    "radialMenu": "Floating actions menu",
+    "themeToggle": "Toggle theme",
+    "localeToggle": "Change language",
+    "legalOpen": "Open legal notice"
+  },
+  "notFound": {
+    "title": "Lost in orbit",
+    "description": "This page doesn’t exist anymore. Jump back to base to keep the experiment going.",
+    "cta": "Back to home"
+  }
+}
